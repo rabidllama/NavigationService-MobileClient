@@ -51,6 +51,4 @@ NavigationMobileClient - Copy2/
 bin/
 
 # Eclipse specific files
-.project
 .settings/
-project.properties
