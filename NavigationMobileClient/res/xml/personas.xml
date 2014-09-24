@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<Personas>
+	    <Persona name="test1">
+	        <Description>
+	            A test persona for seeing if it works. Multiple personas would exist to allow quick selection of default preferences.            
+	        </Description>
+	        <Preferences>
+	            <Preference name="slope">
+	                <value>6</value>
+	            </Preference>
+	            <Preference name="surface">
+	                <value>cobblestone</value>
+	                <value>sand</value>
+	            </Preference>
+	            <preference name="curb">
+	                <value>2.5</value>
+	            </preference>
+	        </Preferences>
+	    </Persona>    
+	    <Persona name="Dave">
+	        <Description>
+	            Dave is an athletic manual wheelchair user. He has been using his wheelchair for 6 years and is comfortable with slopes and curbs that other people may find more challenging.          
+	        </Description>
+	        <Preferences>
+	            <Preference name="slope">
+	                <value>8</value>
+	            </Preference>
+	            <Preference name="surface">
+	                <value>sand</value>
+	            </Preference>
+	            <preference name="curb">
+	                <value>3</value>
+	            </preference>
+	        </Preferences>
+	    </Persona>  
+	    <Persona name="Steve">
+	        <Description>
+	            Steve uses an electric wheelchair to get around. As such, the restrictions posed to him are based on the design of the wheelchair itself.            
+	        </Description>
+	        <Preferences>
+	            <Preference name="slope">
+	                <value>7</value>
+	            </Preference>
+	            <Preference name="surface">
+	                <value>gravel</value>
+	                <value>cobblestone</value>
+	                <value>sand</value>
+	            </Preference>
+	            <preference name="curb">
+	                <value>1</value>
+	            </preference>
+	        </Preferences>
+	    </Persona>  
+	    <Persona name="Caroline">
+	        <Description>
+	            Caroline is a relatively new manual wheelchair user with only two years of experience. She is not particularly comfortable with pushing her boundaries and so prefers to stick with what she knows she can do.  
+	        </Description>
+	        <Preferences>
+	            <Preference name="slope">
+	                <value>5</value>
+	            </Preference>
+	            <Preference name="surface">
+	                <value>gravel</value>
+	                <value>cobblestone</value>
+	                <value>sand</value>
+	            </Preference>
+	            <preference name="curb">
+	                <value>2</value>
+	            </preference>
+	        </Preferences>
+	    </Persona>        
+	</Personas>

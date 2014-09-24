@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="direction_left">Left</string>
+    <string name="direction_right">Right</string>
+    <string name="direction_straight">Straight</string>
+    
+    <string name="verb_turn">Turn</string>
+    <string name="verb_sharpTurn">Sharp turn</string>
+    <string name="verb_veer">Veer</string>
+    <string name="verb_continue">Continue</string>
+</resources>

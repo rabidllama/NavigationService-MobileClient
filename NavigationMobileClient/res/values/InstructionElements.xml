@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_right_x___before_turn">Turn right before %1$s</string>
+    <string name="_right_x___after_turn">Turn right after %1$s</string>
+    <string name="_left_x___before_turn">Turn left before %1$s</string>
+    <string name="_left_x___after_turn">Turn left after %1$s</string>
+    
+    <string name="_right_x___before_sharp">Turn right sharply before %1$s</string>
+    <string name="_right_x___after_sharp">Turn right sharply after %1$s</string>
+    <string name="_left_x___before_sharp">Turn left sharply before %1$s</string>
+    <string name="_left_x___after_sharp">Turn left sharply after %1$s</string>
+    
+    <string name="_right_x___before_veer">Veer right before %1$s</string>
+    <string name="_right_x___after_veer">Veer right after %1$s</string>
+    <string name="_left_x___before_veer">Veer left before %1$s</string>
+    <string name="_left_x___after_veer">Veer left after %1$s</string>
+</resources>

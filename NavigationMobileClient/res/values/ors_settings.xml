@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ors_url">http://cap4navi.geog.uni-heidelberg.de:8080/NavigationService-1.1/</string>
+    <!--<string name="ors_url">http://10.0.3.2:8080/NavigationService-1.1/</string>-->
+</resources>

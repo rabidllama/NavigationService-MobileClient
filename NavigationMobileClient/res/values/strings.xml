@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Navigation Mobile Client</string>
+    
+	<string name="main_continue_label">Continue navigation</string>
+    <string name="main_continue_button_text">Continue</string>
+    <string name="main_new_label">New navigation</string>
+    <string name="main_new_button_text">New&#8230;</string>
+    <string name="main_find_label">Find a nearby&#8230;</string>
+    <string name="main_find_button_text">Find&#8230;</string>
+    <string name="main_preferences_label">Change preferences</string>
+    <string name="main_preferences_button_text">Prefs&#8230;</string>
+
+    <string name="routesettings_title">Plan new navigation</string>
+    <string name="routesettings_start_label">Start:</string>
+    <string name="routesettings_start_button_text">Select</string>
+    <string name="routesettings_end_label">End:</string>
+    <string name="routesettings_end_button_text">Select</string>
+    <string name="routesettings_start_text_text">Waiting for location&#8230;</string>
+    <string name="routesettings_target_text_text">Select a target destination</string>
+    <string name="routesettings_begin_button_text">Take me there!</string>
+    
+    <string name="search_place_title">Search for a place</string>
+    <string name="search_place_hint">Enter text to search</string>
+    <string name="search_place_search_button_text">Search</string>
+    <string name="search_place_select_button_text">Select</string>    
+    
+    <string name="select_route_select_button_text">Select this route</string>
+    
+    <string name="persona_title">Select a Persona</string>
+    <string name="persona_select_button_text">Select this persona</string>
+    <string name="persona_select_list_default">Choose a persona</string>
+    
+    <string name="wheelmap_title">Select a category</string>
+    <string name="wheelmap_loading_categories">Loading categories&#8230;</string>
+    <string name="wheelmap_nodes_filter">Filter results&#8230;</string>
+    <string name="wheelmap_loading_nodes">Waiting for location&#8230;</string>
+    <string name="wheelmap_node_details_choose_button_text">Take me here!</string>
+    <string name="wheelmap_node_call_text">Call %1$s</string>
+    <string name="wheelmap_node_call_ok_button">OK</string>
+    <string name="wheelmap_node_call_cancel_button">Cancel</string>
+    <string name="wheelmap_details_icon_alt_accessible">Accessible</string>
+    <string name="wheelmap_details_icon_alt_limited">Limited accessibility</string>
+    <string name="wheelmap_details_icon_alt_not">Not accessible</string>
+    <string name="wheelmap_details_icon_alt_unknown">Unknown accessibility</string>
+    
+    <string name="instruction_location_waiting">Waiting for location&#8230;</string>
+    <string name="instruction_image_default_alt">Instruction</string>
+</resources>

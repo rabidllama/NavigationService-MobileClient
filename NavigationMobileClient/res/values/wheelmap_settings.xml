@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="WheelMapApiKey">EPR2UP3TmegX7zHkhyZW</string>
+    <string name="WheelMapApiUrl">http://wheelmap.org/api/</string>
+</resources>
