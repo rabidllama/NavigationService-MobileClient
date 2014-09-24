@@ -41,3 +41,15 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Backups and tests
+.metadata/
+images/
+LocationTest/
+NavigationMobileClient - Copy/
+bin/
+
+# Eclipse specific files
+.project
+.settings/
+project.properties
